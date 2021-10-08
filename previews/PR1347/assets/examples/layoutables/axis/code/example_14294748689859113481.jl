@@ -18,5 +18,5 @@ current_figure()
 
   end # hide
   save(joinpath(@OUTPUT, "example_14294748689859113481.png"), __result) # hide
-  
+  save(joinpath(@OUTPUT, "example_14294748689859113481.svg"), __result) # hide
   nothing # hide

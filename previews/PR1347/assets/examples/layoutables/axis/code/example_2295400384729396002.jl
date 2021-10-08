@@ -8,5 +8,5 @@ f
 
   end # hide
   save(joinpath(@OUTPUT, "example_2295400384729396002.png"), __result) # hide
-  
+  save(joinpath(@OUTPUT, "example_2295400384729396002.svg"), __result) # hide
   nothing # hide

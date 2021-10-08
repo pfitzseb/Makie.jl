@@ -21,5 +21,5 @@ f
 
   end # hide
   save(joinpath(@OUTPUT, "example_10209522166838304940.png"), __result) # hide
-  
+  save(joinpath(@OUTPUT, "example_10209522166838304940.svg"), __result) # hide
   nothing # hide
